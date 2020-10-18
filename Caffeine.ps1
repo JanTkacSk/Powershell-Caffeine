@@ -4,4 +4,3 @@ WHILE($TRUE){
     $wsh.SendKeys("{SCROLLLOCK}")
     START-SLEEP -Seconds 200
 }
-#
